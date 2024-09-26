@@ -14,5 +14,7 @@ This Chrome extension allows you to easily pick any color's hex code using an ey
 6. To pick a color, click the extension icon and then click the **Pick a Color** button. Use the eyedropper to select any color on the page.
 7. Upon clicking a color, its hex code will be automatically copied to your clipboard. You can then paste it wherever needed.
 
+![Color Picker Demo](images/howto.gif)
+
 # Learn More
 To learn how to develop this extension yourself, follow the tutorial in [this YouTube video](https://www.youtube.com/@Elitechsol).
