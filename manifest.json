@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Color Picker",
+    "version": "1.0.0",
+    "description": "A simple color picker tutorial by @Elitechsol",
+    "icons": {
+        "16": "images/droper-16.png",
+        "32": "images/droper-32.png",
+        "48": "images/droper-48.png",
+        "128": "images/droper-128.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    }
+  }

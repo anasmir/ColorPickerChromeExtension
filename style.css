@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 250px;
+    background: #fff;
+}
+.picker{
+    background: #34a1eb;
+    justify-content: center;
+}
+#pick-color{
+    border: none;
+    color: #fff;
+    padding: 50px 20px;
+    background: transparent;
+    cursor: pointer;
+    width: 100%;
+	font-size: 1.2rem;
+}
+#pick-color:hover{
+    background: #ff7373;
+}
+#selectedColor{
+    font-size: 1.5rem;
+    text-align:  center;
+    padding: 5px 10px;
+}
